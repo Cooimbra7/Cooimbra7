@@ -1,6 +1,4 @@
 
-# Sobre Mim **Coimbra**
-
 ## *TorcidaJovemSantos*
  
 - Olá, eu sou o @Cooimbra7
