@@ -1,6 +1,6 @@
 
-## *TorcidaJovemSantos*
- 
+##            *𝕮𝖔𝖎𝖒𝖇𝖗𝖆*
+#### R.Q.I 1969
 - **Olá, eu sou o @Cooimbra7**
 - 
 
