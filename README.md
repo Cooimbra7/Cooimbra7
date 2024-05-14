@@ -1,8 +1,8 @@
 
 ##            *𝕮𝖔𝖎𝖒𝖇𝖗𝖆*
 #### R.Q.I 1969
-- **Olá, eu sou o @Cooimbra7**
-- 
+- &#129502;: **Olá, eu sou o @Cooimbra7**
+- &#127920;: Eu estou recentemente aprendendo a programar na linguagem de Java Script e Scratch
 
 
 <!---
