@@ -1,4 +1,4 @@
-
+![.].https://giphy.com/clips/storyful-lifestyle-and-sport-urbano-caldeira-estdio-tOT7BmPG6BVqmcvvny
 ##            *𝕮𝖔𝖎𝖒𝖇𝖗𝖆*
 #### R.Q.I 1969
 - &#129502;: **Olá, eu sou o @Cooimbra7**
