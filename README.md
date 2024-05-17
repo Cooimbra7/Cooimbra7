@@ -1,11 +1,6 @@
-![.](https://giphy.com/clips/storyful-lifestyle-and-sport-urbano-caldeira-estdio-tOT7BmPG6BVqmcvvny)
+![.](https://media.giphy.com/media/xUNd9OKpaXa0fPaS0E/giphy.gif?cid=ecf05e47do49p4p1rrd2abe7589k5v7iy8q3489zszfjd6dw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ##            *𝕮𝖔𝖎𝖒𝖇𝖗𝖆*
 #### R.Q.I 1969
 - &#129502;: **Olá, eu sou o @Cooimbra7**
 - &#127920;: Eu estou recentemente aprendendo a programar na linguagem de Java Script e Scratch
-
-
-<!---
-Cooimbra7/Cooimbra7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![]()
