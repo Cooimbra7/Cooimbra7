@@ -1,4 +1,4 @@
-@@ -3,4 +3,25 @@
+![](https://64.media.tumblr.com/tumblr_ls6vmj4Xgs1qmckmjo1_r1_400.gifv)
 #### R.Q.I 1969
 - &#129502;: **Olá, eu sou o @Cooimbra7**
 - &#127920;: Eu estou recentemente aprendendo a programar na linguagem de Java Script e Scratch
