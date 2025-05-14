@@ -3,7 +3,7 @@
 - &#129502;: **Olá, eu sou o @Cooimbra7**
 - &#127920;: Eu estou recentemente aprendendo a programar na linguagem de Java Script e Scratch
 - ![]()
-
+eu sou DPA gremio
 
 
 
